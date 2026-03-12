@@ -7,3 +7,5 @@ Archivos principales:
 - `contexto-david-perez-diaz.md`
 
 Para ver el portafolio, abre `portafolio-david-perez.html` en el navegador.
+
+Deploy trigger: 2026-03-12T14:24:00
